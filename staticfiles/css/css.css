@@ -1,0 +1,16 @@
+body{
+    background-color: #f8f8f8!important;
+}
+
+.row{
+    padding: 10px;
+}
+
+/* #size-f{
+    font-size: small;
+} */
+
+#pic-edit{
+    width: 150px;
+    height: 163.9px;
+}
